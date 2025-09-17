@@ -47,13 +47,3 @@ gross_salary = calaculate_gross_salary(20000, 10000)
 print(gross_salary)
 print(calculate_shif_deductions(gross_salary))
 print(calculate_nssf_deductions(gross_salary))
-
-
-
-    
-
-
-
-    
-
-
